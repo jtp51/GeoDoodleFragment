@@ -1,4 +1,4 @@
 GeoDoodleFragment
 =================
 
-GeoDoogle project with Fragments
+GeoDoodle project with Fragments
